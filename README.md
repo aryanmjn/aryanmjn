@@ -8,10 +8,19 @@ frontend engineer • react • next.js • typescript
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite"/>
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ant_Design-0f172a?style=flat-square&logo=antdesign&logoColor=1677FF"/>
+<img src="https://img.shields.io/badge/Material_UI-0f172a?style=flat-square&logo=mui&logoColor=007FFF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646CFF"/>
+
+
 
 </div>
 
@@ -19,7 +28,7 @@ frontend engineer • react • next.js • typescript
 
 <div>
 
-### 01 — about
+### 01 — About
 
 ```ts
 const aryan = {
@@ -49,15 +58,15 @@ const aryan = {
 
 <div>
 
-### 02 — currently
+### 02 — Currently
 
-◉ building scalable frontend systems
+◉ Building scalable frontend systems
 
-◉ experimenting with cloud + docker
+◉ Experimenting with cloud + docker
 
-◉ making interfaces feel smoother
+◉ Making interfaces feel smoother
 
-◉ reducing unnecessary complexity
+◉ Reducing unnecessary complexity
 
 </div>
 
@@ -65,7 +74,7 @@ const aryan = {
 
 <div>
 
-### 03 — stack
+### 03 — Stack
 
 <p align="left">
 
@@ -79,23 +88,8 @@ const aryan = {
 
 <div>
 
-### 04 — stats
 
-<p>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanmjn&show_icons=true&hide_border=true&bg_color=00000000&title_color=bec8e8&text_color=8f9bb3&icon_color=9ba7ff"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=bec8e8&text_color=8f9bb3"/>
-
-</p>
-
-</div>
-
-<br/>
-
-<div>
-
-### 05 — connect
+### 04 — Let's Connect!!!
 
 <a href="https://www.linkedin.com/in/aryanmjn">
 <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin"/>
