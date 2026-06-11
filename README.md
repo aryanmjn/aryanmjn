@@ -78,7 +78,7 @@ const aryan = {
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,prisma,firebase,docker,aws,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,prisma,git,vscode"/>
 
 </p>
 
